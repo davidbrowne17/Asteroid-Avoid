@@ -1,0 +1,15 @@
+# Asteroid Avoid
+Collect stars and avoid asteroids. A fun little game to play when idle. \
+Developed by David Browne
+
+## Download
+Android: https://play.google.com/store/apps/details?id=net.davidbrowne.asteroidavoid
+
+## License
+All Rights Reserved
+
+Copyright © David Browne
+
+Created by David Browne
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
